@@ -1,3 +1,7 @@
+!!! This repository is deprecated. Active development here: https://github.com/michalbcz/demagog-cz
+
+!!! Tento repozitar je neaktivni. Vyvoj probiha v https://github.com/michalbcz/demagog-cz/
+
 demagog-cz
 ==========
 
